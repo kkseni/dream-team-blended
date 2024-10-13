@@ -1,0 +1,12 @@
+.hero {
+    background-color: aqua;
+}
+
+.hero-title {
+    font-size: 25px;
+}
+
+.hero-descr {
+    color: brown;
+    font-size: 18px;
+}
